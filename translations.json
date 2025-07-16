@@ -1,5 +1,90 @@
 {
-    "ko": {
+  "de": {
+    "Lines": "Kombinationen",
+    "Fixed": "Fest",
+    "Excluded": "Ausgeschlossen",
+    "SaveDialogTitle": "Wähle einen Slot zum Speichern",
+    "FullCombination": "Vollständige Kombination",
+    "Guaranteed": "Garantie",
+    "OverlapFree": "Überschneidungsfrei",
+    "Random": "Zufällig",
+    "Custom": "Benutzerdefiniert",
+    "Wheel": "Rad-Kombination",
+    "MethodEmptyMessage": "Noch keine Kombinationen gespeichert.",
+    "LastSavedSlot": "Zuletzt gespeicherter Slot:"
+
+  },
+  "en": {
+    "Lines": "Lines",
+    "Fixed": "Fixed",
+    "Excluded": "Excluded",
+    "SaveDialogTitle": "Choose a Save Slot",
+    "FullCombination": "Full Combination",
+    "Guaranteed": "Guaranteed",
+    "OverlapFree": "Overlap-Free",
+    "Random": "Random",
+    "Custom": "Custom",
+    "Wheel": "Wheel",
+    "MethodEmptyMessage": "No combinations saved yet.",
+    "LastSavedSlot": "Last Saved Slot:"
+  },
+  "es": {
+    "Lines": "Líneas",
+    "Fixed": "Fijos",
+    "Excluded": "Excluidos",
+    "SaveDialogTitle": "Elige un Slot para guardar",
+    "FullCombination": "Combinación completa",
+    "Guaranteed": "Garantizado",
+    "OverlapFree": "Sin superposición",
+    "Random": "Aleatorio",
+    "Custom": "Personalizado",
+    "Wheel": "Combinación en rueda",
+    "MethodEmptyMessage": "Aún no hay combinaciones guardadas.",
+    "LastSavedSlot": "Último Slot guardado:"
+  },
+  "fr": {
+    "Lines": "Lignes",
+    "Fixed": "Fixé",
+    "Excluded": "Exclus",
+    "SaveDialogTitle": "Choisissez un Slot pour enregistrer",
+    "FullCombination": "Combinaison complète",
+    "Guaranteed": "Garanti",
+    "OverlapFree": "Sans chevauchement",
+    "Random": "Aléatoire",
+    "Custom": "Personnalisé",
+    "Wheel": "Combinaison en roue",
+    "MethodEmptyMessage": "Aucune combinaison enregistrée pour le moment.",
+    "LastSavedSlot": "Dernier Slot enregistré :"
+  },
+  "it": {
+    "Lines": "Linee",
+    "Fixed": "Fissi",
+    "Excluded": "Esclusi",
+    "SaveDialogTitle": "Scegli uno Slot per salvare",
+    "FullCombination": "Combinazione completa",
+    "Guaranteed": "Garantito",
+    "OverlapFree": "Senza sovrapposizione",
+    "Random": "Casuale",
+    "Custom": "Personalizzato",
+    "Wheel": "Combinazione a ruota",
+    "MethodEmptyMessage": "Nessuna combinazione salvata al momento.",
+    "LastSavedSlot": "Ultimo Slot salvato:"
+  },
+  "ja": {
+    "Lines": "ライン",
+    "Fixed": "固定",
+    "Excluded": "除外",
+    "SaveDialogTitle": "保存する Slot を選択してください",
+    "FullCombination": "完全な組み合わせ",
+    "Guaranteed": "保証付き",
+    "OverlapFree": "重複なし",
+    "Random": "ランダム",
+    "Custom": "カスタム",
+    "Wheel": "ホイール組み合わせ",
+    "MethodEmptyMessage": "まだ組み合わせが保存されていません。",
+    "LastSavedSlot": "最後に保存した Slot："
+  },
+  "ko": {
     "Lines": "조합",
     "Fixed": "고정",
     "Excluded": "제외",
@@ -10,75 +95,11 @@
     "Random": "랜덤",
     "Custom": "맞춤형",
     "Wheel": "휠 조합",
-    "MethodEmptyMessage": "아직 저장된 조합이 없습니다."
-    },
-  "en": {
-        "Lines": "Lines",
-    "Fixed": "Fixed",
-    "Excluded": "Excluded",
-    "SaveDialogTitle": "Choose a Save Slot",
-    "FullCombination": "Full Combination",
-    "Guaranteed": "Guaranteed",
-    "OverlapFree": "Overlap-Free",
-    "Random": "Random",
-    "Custom": "Custom",
-    "Wheel": "Wheel",
-    "MethodEmptyMessage": "No combinations saved yet."
-  },
-  "de": {
-        "Lines": "Kombinationen",
-    "Fixed": "Fest",
-    "Excluded": "Ausgeschlossen",
-    "SaveDialogTitle": "Wähle einen Slot zum Speichern",
-    "FullCombination": "Vollständige Kombination",
-    "Guaranteed": "Garantie",
-    "OverlapFree": "Überschneidungsfrei",
-    "Random": "Zufällig",
-    "Custom": "Benutzerdefiniert",
-    "Wheel": "Rad-Kombination",
-    "MethodEmptyMessage": "Noch keine Kombinationen gespeichert."
-  },
-  "es": {
-        "Lines": "Líneas",
-    "Fixed": "Fijos",
-    "Excluded": "Excluidos",
-    "SaveDialogTitle": "Elige un Slot para guardar",
-    "FullCombination": "Combinación completa",
-    "Guaranteed": "Garantizado",
-    "OverlapFree": "Sin superposición",
-    "Random": "Aleatorio",
-    "Custom": "Personalizado",
-    "Wheel": "Combinación en rueda",
-    "MethodEmptyMessage": "Aún no hay combinaciones guardadas."
-  },
-  "fr": {
-        "Lines": "Lignes",
-    "Fixed": "Fixé",
-    "Excluded": "Exclus",
-    "SaveDialogTitle": "Choisissez un Slot pour enregistrer",
-    "FullCombination": "Combinaison complète",
-    "Guaranteed": "Garanti",
-    "OverlapFree": "Sans chevauchement",
-    "Random": "Aléatoire",
-    "Custom": "Personnalisé",
-    "Wheel": "Combinaison en roue",
-    "MethodEmptyMessage": "Aucune combinaison enregistrée pour le moment."
-  },
-  "it": {
-        "Lines": "Linee",
-    "Fixed": "Fissi",
-    "Excluded": "Esclusi",
-    "SaveDialogTitle": "Scegli uno Slot per salvare",
-    "FullCombination": "Combinazione completa",
-    "Guaranteed": "Garantito",
-    "OverlapFree": "Senza sovrapposizione",
-    "Random": "Casuale",
-    "Custom": "Personalizzato",
-    "Wheel": "Combinazione a ruota",
-    "MethodEmptyMessage": "Nessuna combinazione salvata al momento."
+    "MethodEmptyMessage": "아직 저장된 조합이 없습니다.",
+    "LastSavedSlot": "최근 저장 Slot:"
   },
   "ru": {
-        "Lines": "Линии",
+    "Lines": "Линии",
     "Fixed": "Фиксированные",
     "Excluded": "Исключенные",
     "SaveDialogTitle": "Выберите Slot для сохранения",
@@ -88,19 +109,7 @@
     "Random": "Случайно",
     "Custom": "Пользовательский",
     "Wheel": "Колесо комбинаций",
-    "MethodEmptyMessage": "Комбинации еще не сохранены."
-  },
-  "ja": {
-        "Lines": "ライン",
-    "Fixed": "固定",
-    "Excluded": "除外",
-    "SaveDialogTitle": "保存する Slot を選択してください",
-    "FullCombination": "完全な組み合わせ",
-    "Guaranteed": "保証付き",
-    "OverlapFree": "重複なし",
-    "Random": "ランダム",
-    "Custom": "カスタム",
-    "Wheel": "ホイール組み合わせ",
-    "MethodEmptyMessage": "まだ組み合わせが保存されていません。"
+    "MethodEmptyMessage": "Комбинации еще не сохранены.",
+    "LastSavedSlot": "Последний сохранённый Slot:"
   }
 }
