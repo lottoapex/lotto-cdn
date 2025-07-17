@@ -1,6 +1,7 @@
 {
   "de": {
-    "Lines": "Kombinationen",
+    "Line": "Linie",
+    "Lines": "Linien",
     "Fixed": "Fest",
     "Excluded": "Ausgeschlossen",
     "SaveDialogTitle": "Wähle einen Slot zum Speichern",
@@ -11,10 +12,14 @@
     "Custom": "Benutzerdefiniert",
     "Wheel": "Rad-Kombination",
     "MethodEmptyMessage": "Noch keine Kombinationen gespeichert.",
-    "LastSavedSlot": "Zuletzt gespeicherter Slot:"
+    "LastSavedSlot": "Zuletzt gespeicherter Slot:",
+    "Even": "Gerade", 
+    "Odd": "Ungerade", 
+    "Sum": "Summe" 
 
   },
   "en": {
+    "Line": "Line",
     "Lines": "Lines",
     "Fixed": "Fixed",
     "Excluded": "Excluded",
@@ -26,9 +31,13 @@
     "Custom": "Custom",
     "Wheel": "Wheel",
     "MethodEmptyMessage": "No combinations saved yet.",
-    "LastSavedSlot": "Last Saved Slot:"
+    "LastSavedSlot": "Last Saved Slot:",
+    "Even": "Even", 
+    "Odd": "Odd", 
+    "Sum": "Sum" 
   },
   "es": {
+    "Line": "Línea",
     "Lines": "Líneas",
     "Fixed": "Fijos",
     "Excluded": "Excluidos",
@@ -40,9 +49,14 @@
     "Custom": "Personalizado",
     "Wheel": "Combinación en rueda",
     "MethodEmptyMessage": "Aún no hay combinaciones guardadas.",
-    "LastSavedSlot": "Último Slot guardado:"
+    "LastSavedSlot": "Último Slot guardado:",
+    "Even": "Par", 
+    "Odd": "Impar", 
+    "Sum": "Suma" 
+
   },
   "fr": {
+    "Line": "Ligne",
     "Lines": "Lignes",
     "Fixed": "Fixé",
     "Excluded": "Exclus",
@@ -54,9 +68,13 @@
     "Custom": "Personnalisé",
     "Wheel": "Combinaison en roue",
     "MethodEmptyMessage": "Aucune combinaison enregistrée pour le moment.",
-    "LastSavedSlot": "Dernier Slot enregistré :"
+    "LastSavedSlot": "Dernier Slot enregistré :",
+    "Even": "Pair", 
+    "Odd": "Impair", 
+    "Sum": "Somme" 
   },
   "it": {
+    "Line": "Linea",
     "Lines": "Linee",
     "Fixed": "Fissi",
     "Excluded": "Esclusi",
@@ -68,9 +86,13 @@
     "Custom": "Personalizzato",
     "Wheel": "Combinazione a ruota",
     "MethodEmptyMessage": "Nessuna combinazione salvata al momento.",
-    "LastSavedSlot": "Ultimo Slot salvato:"
+    "LastSavedSlot": "Ultimo Slot salvato:",
+    "Even": "Pari", 
+    "Odd": "Dispari", 
+    "Sum": "Somma" 
   },
   "ja": {
+    "Line": "ライン",
     "Lines": "ライン",
     "Fixed": "固定",
     "Excluded": "除外",
@@ -82,9 +104,13 @@
     "Custom": "カスタム",
     "Wheel": "ホイール組み合わせ",
     "MethodEmptyMessage": "まだ組み合わせが保存されていません。",
-    "LastSavedSlot": "最後に保存した Slot："
+    "LastSavedSlot": "最後に保存した Slot：",
+    "Even": "偶数", 
+    "Odd": "奇数", 
+    "Sum": "合計" 
   },
   "ko": {
+    "Line": "번",
     "Lines": "조합",
     "Fixed": "고정",
     "Excluded": "제외",
@@ -96,9 +122,13 @@
     "Custom": "맞춤형",
     "Wheel": "휠 조합",
     "MethodEmptyMessage": "아직 저장된 조합이 없습니다.",
-    "LastSavedSlot": "최근 저장 Slot:"
+    "LastSavedSlot": "최근 저장 Slot:",
+    "Even": "짝수", 
+    "Odd": "홀수", 
+    "Sum": "합계" 
   },
   "ru": {
+    "Line": "Линия",
     "Lines": "Линии",
     "Fixed": "Фиксированные",
     "Excluded": "Исключенные",
@@ -110,6 +140,9 @@
     "Custom": "Пользовательский",
     "Wheel": "Колесо комбинаций",
     "MethodEmptyMessage": "Комбинации еще не сохранены.",
-    "LastSavedSlot": "Последний сохранённый Slot:"
+    "LastSavedSlot": "Последний сохранённый Slot:",
+    "Even": "Чётное", 
+    "Odd": "Нечётное", 
+    "Sum": "Сумма" 
   }
 }
