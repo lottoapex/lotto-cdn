@@ -1,4 +1,4 @@
-{
+window.translations = { 
   "de": {
     "Line": "Linie",
     "Lines": "Linien",
