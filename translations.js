@@ -16,7 +16,7 @@ window.translations = {
         "Even": "Gerade",
         "Odd": "Ungerade",
         "Sum": "Summe",
-        "LIneNothing": "keine daten"
+        "LineNothing": "keine daten"
 
     },
     "en": {
@@ -36,7 +36,7 @@ window.translations = {
         "Even": "Even",
         "Odd": "Odd",
         "Sum": "Sum",
-        "LIneNothing": "no data"
+        "LineNothing": "no data"
     },
     "es": {
         "Line": "Línea",
@@ -55,7 +55,7 @@ window.translations = {
         "Even": "Par",
         "Odd": "Impar",
         "Sum": "Suma",
-        "LIneNothing": "sin datos"
+        "LineNothing": "sin datos"
 
     },
     "fr": {
@@ -75,7 +75,7 @@ window.translations = {
         "Even": "Pair",
         "Odd": "Impair",
         "Sum": "Somme",
-        "LIneNothing": "aucune donnée"
+        "LineNothing": "aucune donnée"
     },
     "it": {
         "Line": "Linea",
@@ -94,7 +94,7 @@ window.translations = {
         "Even": "Pari",
         "Odd": "Dispari",
         "Sum": "Somma",
-        "LIneNothing": "nessun dato" 
+        "LineNothing": "nessun dato" 
     },
     "ja": {
         "Line": "ライン",
@@ -113,7 +113,7 @@ window.translations = {
         "Even": "偶数",
         "Odd": "奇数",
         "Sum": "合計",
-        "LIneNothing": "データなし"
+        "LineNothing": "データなし"
     },
     "ko": {
         "Line": "Line",
@@ -132,7 +132,7 @@ window.translations = {
         "Even": "짝수",
         "Odd": "홀수",
         "Sum": "합계",
-        "LIneNothing": "데이터 없음"
+        "LineNothing": "데이터 없음"
     },
     "ru": {
         "Line": "Линия",
@@ -151,6 +151,6 @@ window.translations = {
         "Even": "Чётное",
         "Odd": "Нечётное",
         "Sum": "Сумма",
-        "LIneNothing": "нет данных"
+        "LineNothing": "нет данных"
     }
 }
