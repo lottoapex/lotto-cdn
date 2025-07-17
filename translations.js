@@ -116,7 +116,7 @@ window.translations = {
     "Excluded": "제외",
     "SaveDialogTitle": "저장할 Slot을 선택하세요",
     "FullCombination": "완전 조합",
-    "Guaranteed": "보장 조합",
+    "Guaranteed": "보장",
     "OverlapFree": "중복없은",
     "Random": "랜덤",
     "Custom": "맞춤형",
