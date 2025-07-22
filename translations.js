@@ -132,7 +132,7 @@ window.translations = {
         "Lines": "조합",
         "MethodEmptyMessage": "조합 없음",
         "Odd": "홀수",
-        "OverlapFree": "중복없은",
+        "OverlapFree": "중복없는",
         "Random": "랜덤",
         "SaveDialogTitle": "저장할 Slot을 선택하세요",
         "Simulation": "시뮬레이션",
