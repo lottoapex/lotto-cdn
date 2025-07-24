@@ -17,7 +17,8 @@ window.translations = {
         "SaveDialogTitle": "Wähle einen Slot zum Speichern",
         "Simulation": "Simulation",
         "Sum": "Summe",
-        "Wheel": "Rad-Kombination"
+        "Wheel": "Rad-Kombination",
+        "Match": "Treffer",
     },
     "en": {
         "Custom": "Custom",
@@ -37,7 +38,9 @@ window.translations = {
         "SaveDialogTitle": "Choose a Save Slot",
         "Simulation": "Simulation",
         "Sum": "Sum",
-        "Wheel": "Wheel"
+        "Wheel": "Wheel",
+        "Match": "Match",
+
     },
     "es": {
         "Custom": "Personalizado",
@@ -57,7 +60,8 @@ window.translations = {
         "SaveDialogTitle": "Elige un Slot para guardar",
         "Simulation": "Simulación",
         "Sum": "Suma",
-        "Wheel": "Combinación en rueda"
+        "Wheel": "Combinación en rueda",
+        "Match": "Aciertos",
     },
     "fr": {
         "Custom": "Personnalisé",
@@ -77,7 +81,9 @@ window.translations = {
         "SaveDialogTitle": "Choisissez un Slot pour enregistrer",
         "Simulation": "Simulation",
         "Sum": "Somme",
-        "Wheel": "Combinaison en roue"
+        "Wheel": "Combinaison en roue",
+        "Match": "Bons",
+
     },
     "it": {
         "Custom": "Personalizzato",
@@ -97,7 +103,8 @@ window.translations = {
         "SaveDialogTitle": "Scegli uno Slot per salvare",
         "Simulation": "Simulazione",
         "Sum": "Somma",
-        "Wheel": "Combinazione a ruota"
+        "Wheel": "Combinazione a ruota",
+        "Match": "Esiti",
     },
     "ja": {
         "Custom": "カスタム",
@@ -117,7 +124,8 @@ window.translations = {
         "SaveDialogTitle": "保存する Slot を選択してください",
         "Simulation": "シミュレーション",
         "Sum": "合計",
-        "Wheel": "ホイール組み合わせ"
+        "Wheel": "ホイール組み合わせ",
+        "Match": "一致",
     },
     "ko": {
         "Custom": "맞춤형",
@@ -137,7 +145,8 @@ window.translations = {
         "SaveDialogTitle": "저장할 Slot을 선택하세요",
         "Simulation": "시뮬레이션",
         "Sum": "합계",
-        "Wheel": "휠 조합"
+        "Wheel": "휠 조합",
+        "Match": "일치",
     },
     "ru": {
         "Custom": "Пользовательский",
@@ -157,6 +166,7 @@ window.translations = {
         "SaveDialogTitle": "Выберите Slot для сохранения",
         "Simulation": "Симуляция",
         "Sum": "Сумма",
-        "Wheel": "Колесо комбинаций"
+        "Wheel": "Колесо комбинаций",
+        "Match": "Совп",
     }
 }
