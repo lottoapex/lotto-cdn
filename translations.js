@@ -19,6 +19,7 @@ window.translations = {
         "Sum": "Summe",
         "Wheel": "Rad-Kombination",
         "Match": "Treffer",
+	"Wins": "gewinne"
     },
     "en": {
         "Custom": "Custom",
@@ -40,7 +41,7 @@ window.translations = {
         "Sum": "Sum",
         "Wheel": "Wheel",
         "Match": "Match",
-
+	"Wins": "wins"
     },
     "es": {
         "Custom": "Personalizado",
@@ -62,6 +63,7 @@ window.translations = {
         "Sum": "Suma",
         "Wheel": "Combinación en rueda",
         "Match": "Aciertos",
+	"Wins": "ganadas"
     },
     "fr": {
         "Custom": "Personnalisé",
@@ -83,7 +85,7 @@ window.translations = {
         "Sum": "Somme",
         "Wheel": "Combinaison en roue",
         "Match": "Bons",
-
+	"Wins": "gains"
     },
     "it": {
         "Custom": "Personalizzato",
@@ -105,6 +107,7 @@ window.translations = {
         "Sum": "Somma",
         "Wheel": "Combinazione a ruota",
         "Match": "Esiti",
+	"Wins": "vincite"
     },
     "ja": {
         "Custom": "カスタム",
@@ -126,6 +129,7 @@ window.translations = {
         "Sum": "合計",
         "Wheel": "ホイール組み合わせ",
         "Match": "一致",
+	"Wins": "当選"
     },
     "ko": {
         "Custom": "맞춤형",
@@ -147,6 +151,7 @@ window.translations = {
         "Sum": "합계",
         "Wheel": "휠 조합",
         "Match": "일치",
+	"Wins": "당첨"
     },
     "ru": {
         "Custom": "Пользовательский",
@@ -168,5 +173,6 @@ window.translations = {
         "Sum": "Сумма",
         "Wheel": "Колесо комбинаций",
         "Match": "Совп",
+	"Wins": "победы"
     }
 }
