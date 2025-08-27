@@ -1,68 +1,69 @@
 {
-	"Bitget": {
-		"CU": {
-			"Default": "block"
-		},
-		"HK": {
-			"Default": "block"
-		},
-		"IR": {
-			"Default": "block"
-		},
-		"KP": {
-			"Default": "block"
-		},
-		"SG": {
-			"Default": "block"
-		},
-		"SD": {
-			"Default": "block"
-		},
-		"IQ": {
-			"Default": "block"
-		},
-		"US": {
-			"Default": "block"
-		},
-		"LY": {
-			"Default": "block"
-		},
-		"YE": {
-			"Default": "block"
-		},
-		"AF": {
-			"Default": "block"
-		},
-		"CF": {
-			"Default": "block"
-		},
-		"CD": {
-			"Default": "block"
-		},
-		"GW": {
-			"Default": "block"
-		},
-		"HT": {
-			"Default": "block"
-		},
-		"LB": {
-			"Default": "block"
-		},
-		"SO": {
-			"Default": "block"
-		},
-		"SS": {
-			"Default": "block"
-		},
-		"CA": {
-			"Alberta": "block"
-		},
-		"UA": {
-			"Crimea": "block",
-			"Donetsk": "block",
-			"Luhansk": "block"
-		}
-	},
-	"LottoLand": {},
-	"Bet365": {}
+  "CookieVer": 1,
+  "Bitget": {
+    "CU": [
+      "Default"
+    ],
+    "HK": [
+      "Default"
+    ],
+    "IR": [
+      "Default"
+    ],
+    "KP": [
+      "Default"
+    ],
+    "SG": [
+      "Default"
+    ],
+    "SD": [
+      "Default"
+    ],
+    "IQ": [
+      "Default"
+    ],
+    "US": [
+      "Default"
+    ],
+    "LY": [
+      "Default"
+    ],
+    "YE": [
+      "Default"
+    ],
+    "AF": [
+      "Default"
+    ],
+    "CF": [
+      "Default"
+    ],
+    "CD": [
+      "Default"
+    ],
+    "GW": [
+      "Default"
+    ],
+    "HT": [
+      "Default"
+    ],
+    "LB": [
+      "Default"
+    ],
+    "SO": [
+      "Default"
+    ],
+    "SS": [
+      "Default"
+    ],
+    "CA": [
+      "Alberta"
+    ],
+    "UA": [
+      "Crimea",
+      "Donetsk",
+      "Luhansk"
+    ]
+  },
+  "LottoLand": {},
+  "Bet365": {}
 }
